@@ -44,7 +44,7 @@ color:lightcoral !important;
 }
 
 .site-content{
-	background-image:url('images/img_3.jpg');
+	background-image:url('https://bucimages033.s3.amazonaws.com/images/img_3.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	
@@ -113,7 +113,7 @@ color:lightcoral !important;
 /* section-2*/
 .section-2 .container-fluid{
 
-	background-image: url('images/photo4.jpg');
+	background-image: url('https://bucimages033.s3.amazonaws.com/images/photo4.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	
